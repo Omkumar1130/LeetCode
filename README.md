@@ -15,4 +15,12 @@ DSA Problem Solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
