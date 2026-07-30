@@ -10,6 +10,7 @@ DSA Problem Solving
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Omkumar1130/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
