@@ -20,6 +20,7 @@ DSA Problem Solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkumar1130/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ DSA Problem Solving
 | [1661-average-time-of-process-per-machine](https://github.com/Omkumar1130/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Omkumar1130/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Omkumar1130/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkumar1130/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
