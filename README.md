@@ -12,6 +12,7 @@ DSA Problem Solving
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Omkumar1130/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omkumar1130/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
