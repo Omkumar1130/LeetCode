@@ -12,6 +12,7 @@ DSA Problem Solving
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Omkumar1130/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [1927-sum-game](https://github.com/Omkumar1130/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omkumar1130/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -44,4 +45,16 @@ DSA Problem Solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkumar1130/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Omkumar1130/LeetCode/tree/main/1927-sum-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Omkumar1130/LeetCode/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/Omkumar1130/LeetCode/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
