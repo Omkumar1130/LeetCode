@@ -2,16 +2,32 @@ class Solution {
 public:
     vector<int> findRightInterval(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        vector<int> ans(n,-1);
-        for(int i =0;i<n;i++){
-            int min_start_index = -1;
-            for(int j =0;j<n;j++){
-                if(intervals[i][1]<=intervals[j][0]){
-                    if(min_start_index==-1 || intervals[j][0]<intervals[min_start_index][0])min_start_index = j;
-                }
-            }
-            ans[i]=min_start_index;
+
+        vector<pair<int, int>> starts;
+
+        for (int i = 0; i < n; i++) {
+            starts.push_back({intervals[i][0], i});
         }
+
+        sort(starts.begin(), starts.end());
+
+        vector<int> ans(n, -1);
+
+        for (int i = 0; i < n; i++) {
+
+            int target = intervals[i][1];
+
+            auto it = lower_bound(
+                starts.begin(),
+                starts.end(),
+                make_pair(target, -1)
+            );
+
+            if (it != starts.end()) {
+                ans[i] = it->second;
+            }
+        }
+
         return ans;
     }
 };
