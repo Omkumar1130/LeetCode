@@ -20,12 +20,14 @@ DSA Problem Solving
 | [0035-search-insert-position](https://github.com/Omkumar1130/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/Omkumar1130/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Omkumar1130/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Omkumar1130/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0704-binary-search](https://github.com/Omkumar1130/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Omkumar1130/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkumar1130/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
