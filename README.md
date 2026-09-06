@@ -20,6 +20,7 @@ DSA Problem Solving
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Omkumar1130/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkumar1130/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Omkumar1130/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0436-find-right-interval](https://github.com/Omkumar1130/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/Omkumar1130/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omkumar1130/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -29,6 +30,7 @@ DSA Problem Solving
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Omkumar1130/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkumar1130/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0436-find-right-interval](https://github.com/Omkumar1130/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/Omkumar1130/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omkumar1130/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -71,4 +73,8 @@ DSA Problem Solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0436-find-right-interval](https://github.com/Omkumar1130/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 <!---LeetCode Topics End-->
