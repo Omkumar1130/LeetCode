@@ -30,6 +30,7 @@ DSA Problem Solving
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Omkumar1130/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Omkumar1130/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Omkumar1130/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0136-single-number](https://github.com/Omkumar1130/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0436-find-right-interval](https://github.com/Omkumar1130/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/Omkumar1130/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -57,6 +58,7 @@ DSA Problem Solving
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Omkumar1130/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@ DSA Problem Solving
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkumar1130/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
